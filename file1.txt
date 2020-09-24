@@ -11,4 +11,6 @@ change 4: - > Fix bug2
 
 change5 : - > Merging with rebase
  
-change 5 : - > change by team mate to fix WI4
+change 6 : - > change by team mate to fix WI4
+
+change 7 : - > to test stash for half done work
