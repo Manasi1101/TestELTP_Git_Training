@@ -8,5 +8,7 @@ change2 : - > fix defect in login bug1
 change3 : - > fix by teammate for bug3
 
 change 4: - > Fix bug2
+
+change5 : - > Merging with rebase
  
 change 5 : - > change by team mate to fix WI4
