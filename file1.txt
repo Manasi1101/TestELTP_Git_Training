@@ -1,7 +1,11 @@
 H ello world!!!
 
-change : - >Login feature 
 
-change1 : - > bug1 
+change 1: - >Login feature 
 
-change : - > fix by teammate for bug3
+change2 : - > fix defect in login bug1
+
+change3 : - > fix by teammate for bug3
+
+change 4: - > Fix bug2
+ 
