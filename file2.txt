@@ -3,3 +3,5 @@ welcome to git demo
 change 1 ; - > to push on remote repo
 
 change 2 : - > pull operation to be checked on command line 
+
+change 3 : - > to check rebase operation on remote item
